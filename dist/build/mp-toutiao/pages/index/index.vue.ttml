@@ -1,0 +1,1 @@
+<template name="336bf41e"><view class="_view content {{ h[ 0 ].rcl }}"><image class="_image logo" src="/static/logo.png"></image><view class="_view"><text class="_text title">{{ h[ 4 ].t }}</text></view></view></template>
